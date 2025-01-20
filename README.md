@@ -4,13 +4,11 @@
 
 I'm Hagar a front end developer. A driven and adaptable professional with a background in architecture, interior design, and graphic design, now passionately working in software development as a front-end developer. With a strong foundation in design principles and years of self-directed learning in web development, I bring a unique blend of creativity and technical expertise.
 
-![Alt Text](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white)
-
 ##
 
 ### 🧰 Language and Tools:
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
@@ -41,4 +39,4 @@ I'm Hagar a front end developer. A driven and adaptable professional with a back
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-plain.svg" />
 <br />
 
-##
+###
