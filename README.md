@@ -36,11 +36,11 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;padding-top:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;padding-top:10px;padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-plain.svg" />
 </div>
+
+<br />
 <br />
 
 ##
-
-<br />
 
 ### 📊 GitHub Stats:
 
