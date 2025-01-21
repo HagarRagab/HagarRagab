@@ -5,7 +5,7 @@
 <p align="left"><a href="https://www.linkedin.com/in/hagar-ragab-12ab8b256/"><img alt="linkedin" width="20px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
-💻 A front end developer. A driven and adaptable professional with a background in architecture, interior design, and graphic design, now passionately working in software development as a front-end developer. With a strong foundation in design principles and years of self-directed learning in web development, I bring a unique blend of creativity and technical expertise.
+💻 Driven and adaptable professional with a background in architecture, interior design, and graphic design, now passionately working in software development as a front-end developer. With a strong foundation in design principles and years of self-directed learning in web development, I bring a unique blend of creativity and technical expertise.
 
 🎓 Studied Architecure from Faculty of Engineering at Alexandria University.
 
