@@ -31,6 +31,7 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;padding-top:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;padding-top:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;padding-top:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;padding-top:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;padding-top:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;padding-top:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;padding-top:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
@@ -41,8 +42,7 @@
 
 <br />
 <br />
-
-##
+<br />
 
 ### 📊 GitHub Stats:
 
