@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hagar Ragab</h1>
 <h3 align="center">Front End Developer (Technology Passionate)</h3>
 
+<img src="./e11167ec-308a-42e3-b5b9-46baafd04940.jpeg" alt="poster" />
+
 - 🔭 I’m currently working on **Social app snapgram**
 
 - 🌱 I’m currently learning **Next.js**
