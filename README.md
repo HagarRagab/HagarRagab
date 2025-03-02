@@ -7,7 +7,7 @@
 
 -   🔭 I’m currently working on **Social app snapgram**
 
--   🌱 I’m currently learning **Next.js**
+-   🌱 I’m currently learning **Web Authentication**
 
 -   👨‍💻 All of my projects are available at [https://hagar-ragab.netlify.app/](https://hagar-ragab.netlify.app/)
 
