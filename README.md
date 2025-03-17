@@ -5,9 +5,9 @@
   <img src="./public/poster.jpg" alt="poster" />
 </p>
 
--   🔭 I’m currently working on **Social app snapgram**
+-   🔭 I’m currently working on **onwards foodies**
 
--   🌱 I’m currently learning **Web Authentication**
+-   🌱 I’m currently learning **Next.js**
 
 -   👨‍💻 All of my projects are available at [https://hagar-ragab.netlify.app/](https://hagar-ragab.netlify.app/)
 
