@@ -5,9 +5,9 @@
   <img src="./public/poster.jpg" alt="poster" />
 </p>
 
--   🔭 I’m currently working on **onwards foodies**
+<!-- -   🔭 I’m currently working on **onwards foodies** -->
 
--   🌱 I’m currently learning **Next.js**
+-   🌱 I’m currently learning **Fundamentals of Database Systems**
 
 -   👨‍💻 All of my projects are available at [https://hagar-ragab.netlify.app/](https://hagar-ragab.netlify.app/)
 
