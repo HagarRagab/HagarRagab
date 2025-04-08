@@ -7,7 +7,7 @@
 
 <!-- -   🔭 I’m currently working on **onwards foodies** -->
 
--   🌱 I’m currently learning **Fundamentals of Database Systems**
+-   🌱 I’m currently learning **Postman**
 
 -   👨‍💻 All of my projects are available at [https://hagar-ragab.netlify.app/](https://hagar-ragab.netlify.app/)
 
