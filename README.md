@@ -5,7 +5,7 @@
   <img src="./public/poster.jpg" alt="poster" />
 </p>
 
-<!-- -   🔭 I’m currently working on **onwards foodies** -->
+-   🔭 I’m currently working on **Cartsy shopping website**
 
 -   🌱 I’m currently learning **Postman**
 
