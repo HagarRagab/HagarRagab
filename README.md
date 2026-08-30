@@ -5,17 +5,17 @@
   <img src="./public/poster.jpg" alt="poster" />
 </p>
 
--   👨‍💻 All of my projects are available at [https://hagar-ragab.netlify.app/](https://hagar-ragab.netlify.app/)
+-   👨‍💻 All of my projects are available at [https://hagar-ragab.vercel.app/](https://hagar-ragab.vercel.app/)
 
--   💬 Ask me about **HTML, CSS, JavaScript, and React**
+-   💬 Ask me about **HTML, CSS, JavaScript, React, and Next.js**
 
 -   📫 How to reach me **hagar.ragab.saad@outlook.com**
 
 <h3 align="left">About me:</h3>
 <p align="left">
-💻 Driven and adaptable professional with a background in architecture, interior design, and graphic design, now passionately working in software development as a front-end developer. With a strong   foundation in design principles and years of self-directed learning in web development, I bring a unique blend of creativity and technical expertise.
+💻 Front-End Developer with an Engineering background, specializing in React.js, Next.js, and TypeScript. Delivered production and training-grade features across e-commerce, healthcare, and education platforms, integrating RESTful APIs and Stripe payment systems. Skilled in translating complex UI/UX designs into accessible, maintainable, high-performance code.
   
-🎓 Studied Architecure from Faculty of Engineering at Alexandria University.
+🎓 Bachelor's Degree, Faculty of Engineering | Alexandria University | July 2019
 </p>
 
 <h3 align="left">Connect with me:</h3>
