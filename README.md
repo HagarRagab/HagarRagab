@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hagar Ragab</h1>
-<h3 align="center">Front End Developer (Technology Passionate)</h3>
+<h3 align="center">Front End Developer</h3>
 
 <p  align="center" >
   <img src="./public/poster.jpg" alt="poster" />
@@ -7,15 +7,17 @@
 
 -   👨‍💻 All of my projects are available at [https://hagar-ragab.vercel.app/](https://hagar-ragab.vercel.app/)
 
--   💬 Ask me about **HTML, CSS, JavaScript, React, and Next.js**
+-   💬 Ask me about **HTML, CSS, JavaScript, React, Next.js, and TypeScript**
 
 -   📫 How to reach me **hagar.ragab.saad@outlook.com**
 
 <h3 align="left">About me:</h3>
 <p align="left">
-💻 Front-End Developer with an Engineering background, specializing in React.js, Next.js, and TypeScript. Delivered production and training-grade features across e-commerce, healthcare, and education platforms, integrating RESTful APIs and Stripe payment systems. Skilled in translating complex UI/UX designs into accessible, maintainable, high-performance code.
+💻 Front-End Developer with an Engineering background, specializing in React.js, Next.js, and TypeScript. Delivered production and
+training-grade features across e-commerce, healthcare, and education platforms, integrating RESTful APIs and Stripe payment
+systems. Skilled in translating complex UI/UX designs into accessible, maintainable, high-performance code.
   
-🎓 Bachelor's Degree, Faculty of Engineering | Alexandria University | July 2019
+🎓 Bachelor's Degree, Faculty of Engineering | Alexandria University | 2019
 </p>
 
 <h3 align="left">Connect with me:</h3>
