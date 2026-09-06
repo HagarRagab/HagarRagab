@@ -1,4 +1,4 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" />
+<img src="https://github.com/HagarRagab/HagarRagab/blob/main/assets/cover.jpg" width="100%" />
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=87B2BB&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Hagar+Ragab;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
