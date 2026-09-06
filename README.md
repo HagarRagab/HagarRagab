@@ -1,37 +1,130 @@
-<h1 align="center">Hi 👋, I'm Hagar Ragab</h1>
-<h3 align="center">Front End Developer (Technology Passionate)</h3>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" />
+<br/>
 
-<p  align="center" >
-  <img src="./public/poster.jpg" alt="poster" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=87B2BB&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Hagar+Ragab;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
--   🔭 I’m currently working on **Social app snapgram**
+<h3 align="center">"Readable code outlives clever code."</h3>
 
--   🌱 I’m currently learning **Next.js**
-
--   👨‍💻 All of my projects are available at [https://hagar-ragab.netlify.app/](https://hagar-ragab.netlify.app/)
-
--   💬 Ask me about **HTML, CSS, JavaScript, and React**
-
--   📫 How to reach me **hagar.ragab.saad@outlook.com**
-
-<h3 align="left">About me:</h3>
-<p align="left">
-💻 Driven and adaptable professional with a background in architecture, interior design, and graphic design, now passionately working in software development as a front-end developer. With a strong   foundation in design principles and years of self-directed learning in web development, I bring a unique blend of creativity and technical expertise.
-  
-🎓 Studied Architecure from Faculty of Engineering at Alexandria University.
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hagar-ragab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hagar-ragab" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-plain.svg" width="40" height="40" alt="xd" /> </a> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="vitest" /> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" /> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" /> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="reactrouter" /> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" /> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="netlify" /></p>
-
-<h3 align="left">GitHub stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hagarragab&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagarragab&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://komarev.com/ghpvc/?username=HagarRagab&label=Profile+Views&color=87B2BB&style=flat" alt="Profile views" />
 </p>
+
+---
+
+## �‍💻 About Me
+
+Hi, I'm **Hagar Ragab**, a Front-End Developer with an Engineering background, passionate about building accessible, scalable, and user-friendly web applications.
+
+🚀 **What I Build**
+
+- ⚡ Scalable apps with **React.js** & **Next.js**
+- 🎨 Clean, responsive UIs with **Tailwind CSS**, **Shadcn/ui**, **Bootstrap**, **Material UI**
+- 🧩 State management with **Redux Toolkit**, **Context API**, **TanStack React Query**
+- 🌍 Internationalization with **next-intl** (English & Arabic)
+- 💳 Payment integrations with **Stripe**, and auth with **NextAuth.js**
+
+---
+
+## 🚀 Main Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase"/>
+</p>
+
+## 🔧 Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HagarRagab&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=87B2BB&icon_color=87B2BB" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HagarRagab&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=87B2BB" height="165" alt="Top Languages"/>
+</p>
+
+---
+
+## 🎓 Education
+
+<img align="left" height="100px" width="100px" alt="Faculty of Engineering, Alexandria University" src="alex-uni.png"/>
+
+**Bachelor's Degree, Faculty of Engineering**  
+**Alexandria University** • July 2019
+
+Skills: `Problem-Solving` `Critical Thinking` `System Design` `Web Development`
+
+<br clear="left"/>
+
+---
+
+## 💼 Work Experience
+
+### NexaCode
+
+<img align="left" height="100px" width="100px" alt="NexaCode" src="nexa-code.png"/>
+
+**Front-End Developer (Part-Time)**  
+**NexaCode** • Oct 2025 – Mar 2026
+
+Skills: `React.js` `Next.js` `TypeScript` `RESTful APIs` `Cross-Functional Collaboration` `Clean Architecture`
+
+<br clear="left"/>
+
+---
+
+### Huma Volve
+
+<img align="left" height="100px" width="100px" alt="Huma Volve" src="huma-volve.jpg"/>
+
+**Front-End Developer (Internship)**  
+**Huma Volve** • Sep 2025 – Oct 2025
+
+Skills: `React` `TypeScript` `Tailwind CSS` `Shadcn/ui` `Agile Workflows` `Accessible UI`
+
+<br clear="left"/>
+
+---
+
+## 📫 Contact Me
+
+<div>
+  <a href="mailto:hagar.ragab.saad@outlook.com">
+    <img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <a href="https://hagar-ragab.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-%235074B5?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/hagar-ragab-12ab8b256">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/HagarRagab/HagarRagab/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
+</div>
