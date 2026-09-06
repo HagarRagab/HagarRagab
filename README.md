@@ -66,7 +66,7 @@ Hi, I'm **Hagar Ragab**, a Front-End Developer with an Engineering background, p
 
 ## 🎓 Education
 
-<img align="left" height="100px" width="100px" alt="Faculty of Engineering, Alexandria University" src="alex-uni.png"/>
+<img align="left" height="100px" width="100px" alt="Faculty of Engineering, Alexandria University" src="https://github.com/HagarRagab/HagarRagab/assets/alex-uni.png"/>
 
 **Bachelor's Degree, Faculty of Engineering**  
 **Alexandria University** • July 2019
@@ -81,7 +81,7 @@ Skills: `Problem-Solving` `Critical Thinking` `System Design` `Web Development`
 
 ### NexaCode
 
-<img align="left" height="100px" width="100px" alt="NexaCode" src="nexa-code.png"/>
+<img align="left" height="100px" width="100px" alt="NexaCode" src="https://github.com/HagarRagab/HagarRagab/assets/nexa-code.png"/>
 
 **Front-End Developer (Part-Time)**  
 **NexaCode** • Oct 2025 – Mar 2026
@@ -94,7 +94,7 @@ Skills: `React.js` `Next.js` `TypeScript` `RESTful APIs` `Cross-Functional Colla
 
 ### Huma Volve
 
-<img align="left" height="100px" width="100px" alt="Huma Volve" src="huma-volve.jpg"/>
+<img align="left" height="100px" width="100px" alt="Huma Volve" src="https://github.com/HagarRagab/HagarRagab/assets/huma-volve.jpg"/>
 
 **Front-End Developer (Internship)**  
 **Huma Volve** • Sep 2025 – Oct 2025
