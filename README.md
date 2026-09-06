@@ -1,12 +1,12 @@
 <img src="https://github.com/HagarRagab/HagarRagab/blob/main/assets/poster.jpg" width="100%" />
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=87B2BB&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Hagar+Ragab;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=89a35d&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Hagar+Ragab;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 <h3 align="center">"The parts nobody notices are the parts I care about most"</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HagarRagab&label=Profile+Views&color=87B2BB&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HagarRagab&label=Profile+Views&color=89a35d&style=flat" alt="Profile views" />
 </p>
 
 ---
